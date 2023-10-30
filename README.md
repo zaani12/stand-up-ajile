@@ -13,11 +13,5 @@ Ce document résume les points clés discutés lors de notre séance Agile (Ajil
 ## Séance de Demain 
 - Tâches prévues pour la journée à venir.
 
-Pour plus de détails sur les tâches individuelles et les activités, veuillez vous référer à nos notes de séance et à la documentation du projet.
+Pour plus de détails sur les tâches individuelles et les activités, veuillez vous référer à nos notes de séance et à le documentation correspondante à la Séance par exemple 27/10/2023 pour les tâches de cette Séance.
 
-<!-- ## Contribution
-Si vous avez des contributions ou des suggestions, n'hésitez pas à nous contacter.
-
-## Licence
-Ce document est sous licence [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
- -->
